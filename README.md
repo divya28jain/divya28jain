@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey! I'm Divya Jain 😁👋
 
 - 🔭 I’m currently working on Android Apps and Frontend Projects.
 - 🌱 I’m currently learning Kotlin, Python.
