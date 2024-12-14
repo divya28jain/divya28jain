@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **jain28divya@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1SCtmmYzo9-yhiAuly_1D9obw8E5mikNu/view?usp=sharing](https://drive.google.com/file/d/1SCtmmYzo9-yhiAuly_1D9obw8E5mikNu/view?usp=sharing)
-
 - ⚡ Fun fact **I think I'm Lazy But I'm Passionate about Tech.**
 
 <h3 align="left">Connect with me:</h3>
