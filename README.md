@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Kotlin ,Python**
 
-- 📫 How to reach me **jain28divya@gmail.com**
+
 
 - ⚡ Fun fact **I think I'm Lazy But I'm Passionate about Tech.**
 
