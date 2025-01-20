@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divya28jain&label=Profile%20views&color=0e75b6&style=flat" alt="divya28jain" /> </p>
 
-- 🔭 I’m currently working on **Android Apps and Frontend Projects.**
+- 🔭 I’m currently working on **Android Apps and ML Projects**
 
-- 🌱 I’m currently learning **Kotlin ,Python**
+- 🌱 I’m currently learning **Machine Learning**
 
 
 
