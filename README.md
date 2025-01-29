@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divya28jain&label=Profile%20views&color=0e75b6&style=flat" alt="divya28jain" /> </p>
 
-- 🔭 I’m currently working on **Android Apps and ML Projects**
+- 🔭 I’m currently working on **ML Projects**
 
 - 🌱 I’m currently learning **Machine Learning**
-
-
 
 - ⚡ Fun fact **I think I'm Lazy But I'm Passionate about Tech.**
 
