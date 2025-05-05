@@ -1,7 +1,6 @@
 <h1 align="center">Hey👋, I'm Divya Jain😀</h1>
 <h3 align="center">My fascination with machines and AI has always driven my curiosity, and now I'm turning that passion into action by learning Machine Learning.</h3>
 
-- 📌 How to reach me **jain28divya@gmail.com**
 
 - 🤭 Fun fact **I always think I'm lazy, but then this quote hits me: *"I choose a lazy person to do a hard job because a lazy person will find an easy way to do it."* Maybe I'm just efficient after all!**
 
